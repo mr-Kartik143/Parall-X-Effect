@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Parall-X-Website/static/css/main.cc9ffb40.css",
-    "main.js": "/Parall-X-Website/static/js/main.8a0d7f94.js",
-    "static/js/787.e74120ab.chunk.js": "/Parall-X-Website/static/js/787.e74120ab.chunk.js",
-    "static/media/sport-3.jpg": "/Parall-X-Website/static/media/sport-3.78a28ac33517a71f70ff.jpg",
-    "static/media/sport-1.jpg": "/Parall-X-Website/static/media/sport-1.114d3d57711c0a13716c.jpg",
-    "static/media/sport-2.jpg": "/Parall-X-Website/static/media/sport-2.a1e43fb377f95f072b01.jpg",
-    "index.html": "/Parall-X-Website/index.html",
-    "main.cc9ffb40.css.map": "/Parall-X-Website/static/css/main.cc9ffb40.css.map",
-    "main.8a0d7f94.js.map": "/Parall-X-Website/static/js/main.8a0d7f94.js.map",
-    "787.e74120ab.chunk.js.map": "/Parall-X-Website/static/js/787.e74120ab.chunk.js.map"
+    "main.css": "/Parall-X-Effect/static/css/main.0d810d4e.css",
+    "main.js": "/Parall-X-Effect/static/js/main.2164569a.js",
+    "static/js/787.e74120ab.chunk.js": "/Parall-X-Effect/static/js/787.e74120ab.chunk.js",
+    "static/media/sport-3.jpg": "/Parall-X-Effect/static/media/sport-3.78a28ac33517a71f70ff.jpg",
+    "static/media/sport-1.jpg": "/Parall-X-Effect/static/media/sport-1.114d3d57711c0a13716c.jpg",
+    "static/media/sport-2.jpg": "/Parall-X-Effect/static/media/sport-2.a1e43fb377f95f072b01.jpg",
+    "index.html": "/Parall-X-Effect/index.html",
+    "main.0d810d4e.css.map": "/Parall-X-Effect/static/css/main.0d810d4e.css.map",
+    "main.2164569a.js.map": "/Parall-X-Effect/static/js/main.2164569a.js.map",
+    "787.e74120ab.chunk.js.map": "/Parall-X-Effect/static/js/787.e74120ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc9ffb40.css",
-    "static/js/main.8a0d7f94.js"
+    "static/css/main.0d810d4e.css",
+    "static/js/main.2164569a.js"
   ]
 }
